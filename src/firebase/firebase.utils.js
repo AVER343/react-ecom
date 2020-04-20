@@ -3,7 +3,7 @@ import 'firebase/firestore';
 import 'firebase/auth';
 
 const config ={
-  apiKey: "AIzaSyBFsBAfSzmPfE5nKl0j2q4E01-iQ1CODVo",
+  
   authDomain: "react-ecom-a716a.firebaseapp.com",
   databaseURL: "https://react-ecom-a716a.firebaseio.com",
   projectId: "react-ecom-a716a",
